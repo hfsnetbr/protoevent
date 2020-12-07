@@ -9,7 +9,7 @@ It's painful enough when you have to look after your simple network application 
 
 # Installation
 ```
-go get -u https://github.com/parinpan/protoevent
+go get -u github.com/hfsnetbr/protoevent
 ```
 
 # Demo
